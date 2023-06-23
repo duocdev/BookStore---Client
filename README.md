@@ -1,2 +1,2 @@
-# bookstore---JS
-Online Bookstore built with MERN - MongoDB, Express.js, React.js, Node.js
+# bookstore---Client
+Client-side: Online Book Store built with React library
